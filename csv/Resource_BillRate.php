@@ -1,0 +1,1 @@
+<?php// The array map of user names to rates.// TODO: parse from csv file.$rates = [	"Foo Bar" => 100,];?>
